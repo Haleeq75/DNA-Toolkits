@@ -28,7 +28,7 @@ The DNA Toolkit includes the following functionalities:
    Convert an RNA sequence back to its corresponding DNA sequence.
 
 5. **Complement and Reverse Complement**:
-   - Generate the complement and reverse complement of a DNA sequence.
+   Generate the complement and reverse complement of a DNA sequence.
 
 6. **GC Content Calculation**:
    Calculate the GC content of a DNA/RNA sequence.
