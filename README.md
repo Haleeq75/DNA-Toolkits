@@ -1,13 +1,13 @@
 # DNA-Toolkits
 A DNA Toolkit is a collection of software tools or functions designed to analyze, manipulate, and process DNA sequences.It typically includes features for tasks such as:
 
-  Sequence Analysis: Counting nucleotides, calculating GC content, or finding motifs.
+  **Sequence Analysis:** Counting nucleotides, calculating GC content, or finding motifs.
 
-  Transcription and Translation: Converting DNA to RNA and translating RNA into proteins.
+  **Transcription and Translation:** Converting DNA to RNA and translating RNA into proteins.
 
-  Reverse Complement: Generating the reverse complement of a DNA strand.
+  **Reverse Complement:** Generating the reverse complement of a DNA strand.
 
-  Protein Ananlysis: Processing arious ORF regions and translation 
+  **Protein Ananlysis:** Processing arious ORF regions and translation 
 
 Such a toolkit is often used in bioinformatics, genetics, and molecular biology research to automate and streamline DNA-related tasks. A well-designed DNA Toolkit can save time and improve accuracy in handling genetic data. This repository contains a DNA Toolkit designed for analyzing and manipulating DNA sequences. The toolkit provides a variety of functions for common bioinformatics tasks, including sequence validation, transcription, translation, and more.
 
@@ -46,20 +46,20 @@ The DNA Toolkit includes the following functionalities:
 10. **Protein Identification**:
     Identify possible proteins from open reading frames (ORFs).
 
-**Installation**
+## Installation
 
 ```bash
 git clone https://github.com/Haleeq75/DNA-Toolkits.git
 cd DNA_Toolkits
 ```
 
-**Usage**
+## Usage
 
 ```python
 main.py
 ```
 To use the DNA Toolkit, import the necessary functions and call them with the appropriate parameters.
 
-Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
