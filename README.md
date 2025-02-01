@@ -49,3 +49,10 @@ The DNA Toolkit includes the following functionalities:
 **Usage**
 
 To use the DNA Toolkit, import the necessary functions and call them with the appropriate parameters.
+
+**Installation**
+
+
+```bash
+git clone https://github.com/Haleeq75/DNA-Toolkits.git
+cd DNA_Toolkits
