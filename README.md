@@ -46,13 +46,20 @@ The DNA Toolkit includes the following functionalities:
 10. **Protein Identification**:
     Identify possible proteins from open reading frames (ORFs).
 
-**Usage**
-
-To use the DNA Toolkit, import the necessary functions and call them with the appropriate parameters.
-
 **Installation**
-
 
 ```bash
 git clone https://github.com/Haleeq75/DNA-Toolkits.git
 cd DNA_Toolkits
+```
+
+**Usage**
+
+```python
+main.py
+```
+To use the DNA Toolkit, import the necessary functions and call them with the appropriate parameters.
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first.
+
